@@ -1,0 +1,14 @@
+/Users/yonatan/Projects/workshop/CSharpPerformance/bin/Debug/net8.0/Console
+/Users/yonatan/Projects/workshop/CSharpPerformance/bin/Debug/net8.0/Console.deps.json
+/Users/yonatan/Projects/workshop/CSharpPerformance/bin/Debug/net8.0/Console.runtimeconfig.json
+/Users/yonatan/Projects/workshop/CSharpPerformance/bin/Debug/net8.0/Console.dll
+/Users/yonatan/Projects/workshop/CSharpPerformance/bin/Debug/net8.0/Console.pdb
+/Users/yonatan/Projects/workshop/CSharpPerformance/obj/Debug/net8.0/Console.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yonatan/Projects/workshop/CSharpPerformance/obj/Debug/net8.0/Console.AssemblyInfoInputs.cache
+/Users/yonatan/Projects/workshop/CSharpPerformance/obj/Debug/net8.0/Console.AssemblyInfo.cs
+/Users/yonatan/Projects/workshop/CSharpPerformance/obj/Debug/net8.0/Console.csproj.CoreCompileInputs.cache
+/Users/yonatan/Projects/workshop/CSharpPerformance/obj/Debug/net8.0/Console.dll
+/Users/yonatan/Projects/workshop/CSharpPerformance/obj/Debug/net8.0/refint/Console.dll
+/Users/yonatan/Projects/workshop/CSharpPerformance/obj/Debug/net8.0/Console.pdb
+/Users/yonatan/Projects/workshop/CSharpPerformance/obj/Debug/net8.0/Console.genruntimeconfig.cache
+/Users/yonatan/Projects/workshop/CSharpPerformance/obj/Debug/net8.0/ref/Console.dll
